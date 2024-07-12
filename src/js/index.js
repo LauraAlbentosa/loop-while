@@ -17,3 +17,21 @@ const fillArray = () =>{
 }
 
 fillArray()
+
+/*
+
+const fillArray = () =>{
+    while (!randomNumbers.includes(number)){
+        const number = Math.floor(Math.random()*20)
+        
+        if(&& randomNumbers.length < 15){
+        randomNumbers.push(number)
+        }
+    }
+    //console.log(randomNumbers.length)
+    console.log(randomNumbers)
+}
+
+fillArray()
+
+*/
